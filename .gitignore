@@ -1,0 +1,14 @@
+# Large files
+*.psd
+*.ai
+*.sketch
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*~
+
+SSETUP.md
