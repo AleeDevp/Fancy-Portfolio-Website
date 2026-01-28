@@ -212,9 +212,9 @@ I build modern, performant, and beautiful websites tailored to your needs.
 
 Interested in working together or have questions about this project?
 
-- 📧 **Email:** [your-email@example.com](mailto:ali.kheirani@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/ali-kheirani-a5a17a248)
-- 🐙 **GitHub:** [Your GitHub](https://github.com/aleedevp)
+- 📧 **Email:** [ali.kheirani@gmail.com](mailto:ali.kheirani@gmail.com)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/ali-kheirani-a5a17a248)
+- 🐙 **GitHub:** [GitHub](https://github.com/aleedevp)
 
 ---
 
